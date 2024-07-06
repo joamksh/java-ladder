@@ -32,7 +32,11 @@
 
 [x] ladderTest - 사다리 폭 정보가 제대로 입력됐는지 확인
 
-[ ] main 입력 출력 기능
+[ ] Inputview 입력 처리
+
+[ ] outputView 출력 처리 
+
+[ ] main 진입점 역할
 
 [ ] 출력기능
 
