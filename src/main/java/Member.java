@@ -1,10 +1,9 @@
 public class Member {
     String name;
-    int position;
 
-    public Member(String name, int position) {
+
+    public Member(String name) {
         this.name = name;
-        this.position = position;
     }
 
     public String getName() {
@@ -19,11 +18,4 @@ public class Member {
         this.name = name;
     }
 
-    public int getPosition() {
-        return position;
-    }
-
-    public void setPosition(int position) {
-        this.position = position;
-    }
 }
