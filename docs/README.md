@@ -28,7 +28,9 @@
 
 [x] LineTest true값이 연속적으로 설정되지 않았는지 확인
 
-[ ] ladder - 사다리 폭 관련 기능
+[x] ladder - 사다리 폭 관련 기능
+
+[ ] ladderTest - 사다리 폭 정보가 제대로 입력됐는지 확인
 
 [ ] main 입력 출력 기능
 
