@@ -4,9 +4,9 @@
 
 주요 기능: ArrayList와 LinkedList의 기본 사용법 학습 및 SimpleList 인터페이스와 그 구현체 구현
 
-[ ]List 인터페이스 이해
+List 인터페이스 이해
 
-[ ]SimpleList 인터페이스 구현
+[x]SimpleList 인터페이스 구현
 
 [ ]SimpleArrayList 구현
 -내부적으로 동적 배열을 사용하여 SimpleList 인터페이스를 구현
@@ -15,6 +15,6 @@
 [ ]SimpleLinkedList 구현
 -내부적으로 단일 연결 리스트를 사용하여 SimpleList 인터페이스를 구현
 
-[ ]ListStudy 테스트 작성
+[ ]테스트 작성
 ArrayList와 LinkedList의 주요 기능을 테스트하는 코드를 작성
 SimpleArrayList와 SimpleLinkedList에 대해 동일한 테스트 코드를 작성하여 올바르게 동작하는지 확인
