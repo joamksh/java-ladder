@@ -3,7 +3,9 @@ import java.util.List;
 import java.util.Random;
 
 public class Line {
+
     private List<Boolean> points;
+
 
     public Line(int personCount) {
         this.points = generatePoints(personCount);
@@ -31,4 +33,13 @@ public class Line {
     public int size() {
         return points.size();
     }
+
+    public List<Boolean> getPoints() {
+        return points;
+    }
+
+    public void setPoints(List<Boolean> points) {
+        this.points = points;
+    }
+
 }
