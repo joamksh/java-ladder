@@ -12,7 +12,7 @@
 
 [x]resultTest 요구사항 만족하는지 확인
 
-[ ]ladderGame
+[x]ladderGame
 members, ladder, result 객체를 받아 초기화
 계산 결과 기능 특정 참여자 - 결과 반환 및 모든 결과 반환
 
