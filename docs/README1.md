@@ -10,7 +10,7 @@
 저장 기능 리스트 형태로 각 참여자 결과 저장
 특정 인덱스 해당 결과 조회
 
-[ ]resultTest 요구사항 만족하는지 확인
+[x]resultTest 요구사항 만족하는지 확인
 
 [ ]ladderGame
 members, ladder, result 객체를 받아 초기화
